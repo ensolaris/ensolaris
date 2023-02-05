@@ -9,7 +9,7 @@
 ⛵️ In my spare time I...oh wait, I don't have it! 
 
 ### My Contacts: 
-📫 My emails is jeannie@ensolaris.dev
+📫 My email is jeannie@ensolaris.dev
 
 🌐 My Twitter is @worried_fox
 
