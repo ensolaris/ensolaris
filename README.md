@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 
 
-<!--
-**ensolaris/ensolaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Evgeniia. 
 
-Here are some ideas to get you started:
+📊 I've been working in the digital marketing industry for ~10 years. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 I'm currently learning data science, SQL, Python and other instruments to become a data analytic. 
+
+⛵️ In my spare time I...oh wait, I don't have it! 
+
+### My Contacts: 
+📫 My emails is jeannie@ensolaris.dev
+
+🌐 My Twitter is @worried_fox
+
+🦊 On Github you can find me [here](https://github.com/ensolaris).
