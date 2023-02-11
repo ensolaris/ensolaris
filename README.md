@@ -8,9 +8,5 @@
 
 ⛵️ In my spare time I...oh wait, I don't have it! 
 
-### My Contacts: 
 📫 My email is jeannie@ensolaris.dev
 
-🌐 My Twitter is @worried_fox
-
-🦊 On Github you can find me [here](https://github.com/ensolaris).
